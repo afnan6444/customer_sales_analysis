@@ -1,1 +1,7 @@
+ 🛠️ Technical Requirements
+- Language:** Python  
+- Libraries:** pandas, matplotlib, seaborn  
+- Data Manipulation:** Aggregations, joins/merges, pivot tables  
+- Visualizations:** Line charts, bar charts, pie charts, heatmaps  
+- Reporting:** Executive summary with insights and recommendations  
 
